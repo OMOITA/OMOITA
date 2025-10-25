@@ -32,8 +32,8 @@ Tenho experiência com **infraestrutura de TI**, **suporte técnico** e **gestã
 
 ##  Estatísticas do GitHub
 
-![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardomarcondes&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardomarcondes&layout=compact&theme=tokyonight&hide_border=true)
+![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=OMOITA&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMOITA&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
