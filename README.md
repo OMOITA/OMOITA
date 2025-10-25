@@ -2,78 +2,60 @@
 
  **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
  Experiência em **Infraestrutura de TI, Intune, Active Directory, redes e suporte técnico**  
- Atualmente focado em **DevOps, automação, análise de dados e desenvolvimento web full stack**
+ Focado em **DevOps, automação, análise de dados e desenvolvimento web full stack**
 
 ---
 
 ##  Sobre mim
 
-Sou apaixonado por tecnologia e por encontrar soluções práticas e inteligentes para desafios reais.  
-Atuo na área de **Infraestrutura e Operações de TI**, com experiência em ferramentas como **Microsoft Intune**, **SolarWinds Orion**, **CyberArk** e **SAP**, além de administração de usuários via **Active Directory**.  
-
-Nos últimos anos, venho expandindo meu foco para o **desenvolvimento e integração de sistemas**, com ênfase em **Python**, **Flask**, **PostgreSQL**, **JavaScript** e práticas de **DevOps**.  
-Busco unir **dados, automação e infraestrutura** para criar soluções escaláveis e seguras.
+Sou apaixonado por tecnologia e por transformar desafios em soluções práticas e automatizadas.  
+Tenho experiência com **infraestrutura de TI**, **suporte técnico** e **gestão de dispositivos corporativos**, e atualmente foco em unir **dados, automação e desenvolvimento** para criar sistemas escaláveis e eficientes.
 
 ---
 
-##  Áreas de Interesse
-
--  **Desenvolvimento Full Stack** (Flask, JavaScript, HTML/CSS, Bootstrap)  
--  **DevOps e Cloud Computing**  
--  **Análise e Visualização de Dados** (Pandas, Matplotlib, Power BI)  
--  **Machine Learning aplicado à tomada de decisão**  
--  **Infraestrutura e Automação de TI**  
--  **Segurança da Informação e Gestão de Identidades**
-
----
-
-##  Tecnologias e Ferramentas
+##  Tecnologias
 
 **Linguagens:**  
-`Python` · `JavaScript` · `SQL` · `HTML5` · `CSS3`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Frameworks e Bibliotecas:**  
-`Flask` · `Bootstrap` · `Pandas` · `Scikit-learn` · `Folium` · `Dask` · `xarray`
+**Frameworks e Ferramentas:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-**Banco de Dados:**  
-`PostgreSQL` · `Supabase` 
+---
 
-**Ferramentas e Plataformas:**  
-`Git & GitHub` · `Power BI` · `Google Cloud` · `SAP` · `Intune` · `Active Directory` · `Orion SolarWinds`
+##  Estatísticas do GitHub
 
-**DevOps e Cloud:**  
-`Docker` (em aprendizado) · `CI/CD` · `Monitoramento e automação`
+![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardomarcondes&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardomarcondes&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ##  Projetos em Destaque
 
-###  [Sistema NJORD](#)
-Sistema de Apoio à Decisão com base em dados de acidentes de trânsito.  
-Utiliza **Python**, **Flask** e **PostgreSQL** para gerar **análises empíricas e preditivas**, com visualizações dinâmicas e KPIs em tempo real.
-
-###  [Plataforma de Lógica de Programação](#)
-Plataforma web desenvolvida para **treinamento interativo de lógica de programação**, com login de usuários, acompanhamento de desempenho e sistema de recomendação baseado em **machine learning**.  
- Tecnologias: **HTML, CSS, JavaScript, Python, Supabase**
-
-###  [Olloudius](#)
-Sistema pessoal de acompanhamento de investimentos, integrando **Python**, **PostgreSQL**, **Tkinter** e **Power BI** para análise e visualização dos resultados.
+ **[Sistema NJORD](#)** – Sistema de Apoio à Decisão com dados de acidentes de trânsito, utilizando **Python**, **Flask** e **PostgreSQL**.  
+ **[Plataforma de Lógica de Programação](#)** – Plataforma web para prática de lógica, com **machine learning** para recomendações.  
+ **[Olloudius](#)** – Sistema pessoal de acompanhamento de investimentos com **Tkinter**, **PostgreSQL** e **Power BI**.
 
 ---
 
 ##  Formação
 
  **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
- **TenarisConfab (Estágio)** – Operação e Infraestrutura de IT  
-Foco em monitoramento, suporte técnico e gestão de dispositivos corporativos.
+ **TenarisConfab (Estágio)** – Operação e Infraestrutura de IT
 
 ---
 
 ##  Contato
 
-📧 **cesariomarcondes@outlook.com**  
-📧 **bernardo.marcondes2011@gmail.com**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/bernardo-marcondes/)  
+ **cesariomarcondes@outlook.com**    
+ [**LinkedIn**](https://www.linkedin.com/in/bernardo-marcondes/)  
 
 ---
 
