@@ -47,8 +47,10 @@ Tenho experiência com **infraestrutura de TI**, **suporte técnico** e **gestã
 
 ##  Formação
 
- **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+ **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+ **Bacharel em Sistamas de Informação**
  **TenarisConfab (Estágio)** – Operação e Infraestrutura de IT
+ **Analista de suporte Junior** - Stefanini consultoria
 
 ---
 
